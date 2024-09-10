@@ -28,3 +28,11 @@ variáveis (const, let)
 
 ## consicionais 
 - swith
+
+## modulos em node.js
+
+- importação de modulos (require, connonJS)
+- biblioteca 'inquirer' para criar prompts interativos
+
+## programacão assincrona e Promises:
+- uso de funçoes assincronas (async/await)
