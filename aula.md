@@ -21,3 +21,10 @@ variáveis (const, let)
 - coletar os dados
 - processar os dados(manipular, alterar..)
 - apresentar os dados
+
+## estrutura de repetição
+
+- while
+
+## consicionais 
+- swith
