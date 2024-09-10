@@ -1,8 +1,8 @@
 // arrays e objts
 const start = () => {
    
-    while (){
-        let opcao = "listar"
+    while (true){
+        let opcao = "sair"
         switch(opcao){
             case "cadastrar":
             console.log("vamos cadastrar")
