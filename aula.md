@@ -28,6 +28,10 @@ variáveis (const, let)
 
 ## consicionais 
 - swith
+- if/else 
+
+## operadores 
+operadores de comparaçao: == != <> <= >=
 
 ## modulos em node.js
 
